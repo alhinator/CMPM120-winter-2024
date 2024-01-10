@@ -79,7 +79,7 @@ function sumArrayElements(_array) {
 //live
 const player01 = new Player()
 player01.printPlayer()
-const player02 = new Player("Minnedote")
+const player02 = new Player("Mermaid Man")
 player02.rollAttributes()
 player02.printPlayer()
 
